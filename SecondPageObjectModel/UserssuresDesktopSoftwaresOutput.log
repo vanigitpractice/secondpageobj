@@ -1,0 +1,8 @@
+2021-04-04 22:47:20 INFO  LoginScript:21 - browser path is set
+2021-04-04 22:47:23 INFO  LoginScript:24 - create browser instance
+2021-04-04 22:47:27 INFO  LoginScript:30 - enter url
+2021-04-04 22:47:27 WARN  LoginScript:33 - this is not support
+2021-04-04 22:47:27 INFO  LoginScript:38 - number of liks on the page  51
+2021-04-04 22:47:27 INFO  LoginScript:45 - this is from object model   and liks count and links are   51
+2021-04-04 22:47:27 WARN  LoginScript:48 - login email entereed
+2021-04-04 22:47:27 WARN  LoginScript:55 - click on create acc
